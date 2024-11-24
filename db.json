@@ -1,0 +1,80 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Andrew",
+            "surname": "idk",
+            "photo_url": "https://preview.redd.it/j2ex7z8tyqf21.jpg?auto=webp&s=773b6986c6453a387590b23560f8e3922a87c311",
+            "balance": 2000
+        },
+        {}
+    ],
+    "products": [
+        {
+            "name": "Клейовий пістолет KAYLL KL-20W (Китайська вилка)",
+            "photo_url": "https://robostore.com.ua/content/images/13/960x1280l80bc40/oborudovanie-dlya-robototehnikiruchnoj-instrumenttermopistolet-kleevoj-dlya-silikonovogo-kleya-7-mm-kayll-kl-12123341179007.webp",
+            "price": 75.00,
+            "description": "Something"
+        },
+        {
+            "name": "Драйвер двигунів двоканальний TB6612FNG",
+            "photo_url": "https://robostore.com.ua/content/images/44/1500x1500l80bc40/drayver-dvigateley-dvuxkanalnyy-tb6612fng-80700037947462.webp",
+            "price": 102,
+            "description": "idk"
+        },
+        {
+            "name": "Рама Mark 4 7 дюймів 295мм",
+            "photo_url": "https://robostore.com.ua/content/images/27/500x500l80bc40/rama-mark-4-7-diuimov-295mm-15894151758931.webp",
+            "price": 600,
+            "description": "IDK"
+        },
+        {
+            "name": "Літієва батарея (крона) GTF micro USB 9V 650mAh",
+            "photo_url": "https://robostore.com.ua/content/images/13/634x846l80bc40/lytyevaia-batareika-krona-gtf-micro-usb-9v-650mah-83643136797528.webp",
+            "price": 250,
+            "description": "Something"
+        },
+        {
+            "name": "Комплект прозорих клейових стрижнів 7мм*190мм (25шт)",
+            "photo_url": "https://robostore.com.ua/content/images/34/838x774l80bc40/komplekt-prozrachnykh-kleevykh-sterzhnei-7mm190mm-25sht-62424204089733.webp",
+            "price": 15.00,
+            "description": "Somethingggg"
+        },
+        {
+            "name": "Цифровий вольтметр 0-100 В, дисплей 0,36",
+            "photo_url": "https://robostore.com.ua/content/images/19/554x561l80bc40/cifroviy-voltmetr-0-100-v-displey-036-84061398628081.webp",
+            "price": 62,
+            "description": "idkkkk"
+        },
+        {
+            "name": "Кабель живлення 8 AWG (силікон червоний)",
+            "photo_url": "https://robostore.com.ua/content/images/16/700x700l80bc40/kabel-pytanyia-8-awg-sylykon-krasnyi-24294543456405.webp",
+            "price": 140,
+            "description": "i dont know"
+        },
+        {
+            "name": "Пінцет промисловий вигнутий 120мм",
+            "photo_url": "https://robostore.com.ua/content/images/1/592x563l80bc40/kley-silikonovyy-dlya-termopistoleta-11-mm-15-sht.-zheltyy-58654583882262.webp",
+            "price": 90,
+            "description": "github"
+        },
+        {
+            "name": "Сонячна панель 95х95 мм",
+            "photo_url": "https://robostore.com.ua/content/images/5/463x618l80bc40/batareika-krona-9vpanasonic-85936398917992.webp",
+            "price": 65,
+            "description": "IIDDKK"
+        },
+        {
+            "name": "Акумуляторний відсік для трьох елементів живлення 18650",
+            "photo_url": "https://robostore.com.ua/content/images/46/1500x1500l80bc40/akkumuljatornyy-otsek-dlja-trex-elementov-pitanija-18650-28708967026821.webp",
+            "price": 85,
+            "description": "very good item"
+        }
+    ]
+}
+
+
+
+
+
+ 
